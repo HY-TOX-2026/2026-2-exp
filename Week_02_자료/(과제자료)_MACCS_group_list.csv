@@ -1,0 +1,4 @@
+Group,query_id,query_smiles,reference_a_id,reference_a_smiles,reference_b_id,reference_b_smiles
+1,Q-01,CCCOC(=O)c1ccc(O)cc1,AUG-0054,CCCOC(=O)c1ccc(O)c(Cl)c1,AUG-0061,CCCOC(=O)c1ccc(O)c(OC)c1
+2,Q-01,CCCOC(=O)c1ccc(O)cc1,AUG-0164,O=C(OC1CCCC1)c1ccc(O)cc1,AUG-0318,C=CCOC(=O)c1ccc(O)cc1
+3,Q-01,CCCOC(=O)c1ccc(O)cc1,AUG-0087,CCCOC(=O)c1ccc(CBr)cc1,AUG-0213,O=C(OC1CCCCC1)c1ccc(O)cc1
